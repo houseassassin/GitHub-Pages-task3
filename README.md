@@ -1,8 +1,12 @@
 # GitHub Pages task3
  Иванов Алексей Петрович
+
 📍 Город: Москва
+
 📞 Телефон: +7 (XXX) XXX-XX-XX
+
 ✉ Email: example@mail.com
+
 🔗 LinkedIn: https://linkedin.com/in/ivanov-alexey
 
 ## Цель
